@@ -1,0 +1,144 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "img": "https://image.thebanchan.co.kr/dwmall/static_root/model_img/main/781/78146_1_a.jpg",
+            "title": "모둠두메산나물(219g)",
+            "content": "다양한 산나물을 간편하게 즐기는 한 팩. 비빔밥·무침용으로 좋아요.",
+            "price": "￦8,900",
+            "category": "side",
+            "choice": true,
+            "new": true
+        },
+        {
+            "id": 2,
+            "img": "https://image.thebanchan.co.kr/dwmall/static_root/model_img/main/781/78175_1_a.jpg",
+            "title": "쇠고기옛날장조림(150g)",
+            "content": "부드럽게 졸인 전통 쇠고기 장조림, 밥반찬으로 딱!",
+            "price": "￦15,000",
+            "category": "side",
+            "choice": true,
+            "new": true
+        },
+        {
+            "id": 3,
+            "img": "https://image.thebanchan.co.kr/dwmall/static_root/model_img/main/782/78235_1_a.jpg",
+            "title": "계란말이(210g)",
+            "content": "폭신하게 구운 담백한 계란말이, 도시락 반찬으로 딱!",
+            "price": "￦95,400",
+            "category": "side",
+            "choice": false,
+            "new": true
+        },
+        {
+            "id": 4,
+            "img": "https://image.thebanchan.co.kr/dwmall/static_root/product_img/main/0036175/003617589_3_a.jpg",
+            "title": "포천이동양념 돼지왕구이 (500g)",
+            "content": "포천 이동식 양념으로 깊은 맛, 두툼한 돼지왕구이!",
+            "price": "￦23,000",
+            "category": "main",
+            "choice": false,
+            "new": true
+        },
+        {
+            "id": 5,
+            "img": "https://image.thebanchan.co.kr/dwmall/static_root/model_img/main/782/78268_1_a.jpg",
+            "title": "소갈비찜(850g)",
+            "content": "부드럽게 익힌 소갈비, 깊은 맛의 갈비찜.",
+            "price": "￦38,000",
+            "category": "main",
+            "choice": true,
+            "new": false
+        },
+        {
+            "id": 6,
+            "img": "https://image.thebanchan.co.kr/dwmall/static_root/model_img/main/783/78330_1_a.jpg",
+            "title": "쉬림프투움바파스타(335g.1인분)",
+            "content": "크리미하고 매콤한 쉬림프 투움바, 한 그릇 파스타 완성!",
+            "price": "￦24,000",
+            "category": "main",
+            "choice": false,
+            "new": false
+        },
+        {
+            "id": 7,
+            "img": "https://image.thebanchan.co.kr/dwmall/static_root/model_img/main/782/78252_1_a.jpg",
+            "title": "오징어부추전 반죽(400g)",
+            "content": "간편하게 부쳐먹는 오징어부추전, 바삭한 집술안주.",
+            "price": "￦12,500",
+            "category": "main",
+            "choice": true,
+            "new": false
+        },
+        {
+            "id": 8,
+            "img": "https://image.thebanchan.co.kr/dwmall/static_root/model_img/main/782/78204_1_a.jpg",
+            "title": "쇠고기무국(550g)",
+            "content": "부드러운 소고기와 시원한 무, 국물 맛이 일품!",
+            "price": "￦9,000",
+            "category": "soup",
+            "choice": false,
+            "new": true
+        },
+        {
+            "id": 9,
+            "img": "https://image.thebanchan.co.kr/dwmall/static_root/model_img/main/782/78203_1_a.jpg",
+            "title": "수제 콩나물김치국(550g)",
+            "content": "김치와 콩나물의 찰떡궁합, 해장국으로 딱!",
+            "price": "￦12,000",
+            "category": "soup",
+            "choice": true,
+            "new": true
+        },
+        {
+            "id": 10,
+            "img": "https://image.thebanchan.co.kr/dwmall/static_root/model_img/main/781/78164_1_a.jpg",
+            "title": "스팸참치마요덮밥(280g)",
+            "content": "짭짤 고소한 스팸참치마요, 간편한 덮밥 한 끼",
+            "price": "￦11,000",
+            "category": "main",
+            "choice": false,
+            "new": true
+        },
+        {
+            "id": 11,
+            "img": "https://image.thebanchan.co.kr/dwmall/static_root/model_img/main/782/78230_1_a.jpg",
+            "title": "냉이된장찌개(550g)",
+            "content": "봄 향 가득한 냉이와 구수한 된장이 어우러진 전통 된장찌개.",
+            "price": "￦7,800",
+            "category": "soup",
+            "choice": true,
+            "new": false
+        },
+        {
+            "id": 12,
+            "img": "https://image.thebanchan.co.kr/dwmall/static_root/model_img/main/782/78240_1_a.jpg",
+            "title": "토마토소스미트볼(470g)",
+            "content": "부드러운 미트볼에 진한 토마토소스를 더한 풍성한 한 접시.",
+            "price": "￦18,000",
+            "category": "main",
+            "choice": false,
+            "new": true
+        },
+        {
+            "id": 13,
+            "img": "https://image.thebanchan.co.kr/dwmall/static_root/product_img/main/0036607/003660726_1_a.jpg",
+            "title": "[세트] 더반찬 한번에 맛보기 세트1",
+            "content": "한 번에 즐기는 인기 반찬 모음, 맛과 구성 모두 만족스러운 세트.",
+            "price": "￦18,500",
+            "category": "side",
+            "choice": true,
+            "new": true
+        },
+        {
+            "id": 14,
+            "img": "https://image.thebanchan.co.kr/dwmall/static_root/model_img/main/100/1001791_1_a.jpg",
+            "title": "당근라페 소시지 샐러드(250g)",
+            "content": "아삭한 당근라페와 소시지의 조화, 상큼하고 든든한 샐러드.",
+            "price": "￦89,000",
+            "category": "salad",
+            "choice": false,
+            "new": false
+        }
+    ]
+}

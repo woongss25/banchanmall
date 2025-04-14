@@ -1,0 +1,58 @@
+  .container {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+  }
+  .searchInput {    
+      width: 260px;
+      height: 40px;
+      border: 1px solid #cdcdcd;
+      margin-bottom: 30px;
+  }
+  .productList {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 30px;
+  }
+  
+  /* :has()는 CSS에서 "부모가 자식을 감지하는" 희귀한 문법-부모 안에 마지막 자식이 딱 하나 있는 경우 */
+  .productList:has(:nth-last-child(3)) {
+      justify-content: flex-start;
+    }
+  .productList > li {
+    position: relative;
+    width: calc(100% / 4 - 30px);
+    padding: 20px;
+    border: 1px solid #cdcdcd;
+    box-sizing: border-box;
+    transition: all 0.3s;
+  }
+  .productList > li:hover {
+    border-color: #e8521b;
+  }
+  .productList > li img {
+    width: 100%;
+    margin-bottom: 25px;
+  }
+  .productList h3 {
+    font-size: 18px;
+    font-weight: 500;
+    margin-bottom: 20px;
+  }
+  .productList .content {
+    margin-bottom: 10px;
+  }
+  .productList .price {
+    font-weight: 400;
+    font-size: 17px;
+  }
+  .productList .choice {
+      position: absolute;
+      top: 0; left: 0;
+      padding: 5px 10px;
+      border-radius: 3px;
+      background: #f45c10;
+      color: #fff;
+      font-size: 14px;
+  }
