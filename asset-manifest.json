@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/thebanchan/static/css/main.eb2b8080.css",
+    "main.js": "/thebanchan/static/js/main.55f323de.js",
+    "static/js/453.f6e38ed9.chunk.js": "/thebanchan/static/js/453.f6e38ed9.chunk.js",
+    "static/media/logo.png": "/thebanchan/static/media/logo.43a3e190fd8435235ace.png",
+    "index.html": "/thebanchan/index.html",
+    "main.eb2b8080.css.map": "/thebanchan/static/css/main.eb2b8080.css.map",
+    "main.55f323de.js.map": "/thebanchan/static/js/main.55f323de.js.map",
+    "453.f6e38ed9.chunk.js.map": "/thebanchan/static/js/453.f6e38ed9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb2b8080.css",
+    "static/js/main.55f323de.js"
+  ]
+}
