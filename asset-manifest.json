@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/banchanmall/static/css/main.eb2b8080.css",
-    "main.js": "/banchanmall/static/js/main.03e35d36.js",
+    "main.css": "/banchanmall/static/css/main.6f99dcfd.css",
+    "main.js": "/banchanmall/static/js/main.3e2aef89.js",
     "static/js/453.f6e38ed9.chunk.js": "/banchanmall/static/js/453.f6e38ed9.chunk.js",
     "static/media/logo.png": "/banchanmall/static/media/logo.43a3e190fd8435235ace.png",
     "index.html": "/banchanmall/index.html",
-    "main.eb2b8080.css.map": "/banchanmall/static/css/main.eb2b8080.css.map",
-    "main.03e35d36.js.map": "/banchanmall/static/js/main.03e35d36.js.map",
+    "main.6f99dcfd.css.map": "/banchanmall/static/css/main.6f99dcfd.css.map",
+    "main.3e2aef89.js.map": "/banchanmall/static/js/main.3e2aef89.js.map",
     "453.f6e38ed9.chunk.js.map": "/banchanmall/static/js/453.f6e38ed9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.eb2b8080.css",
-    "static/js/main.03e35d36.js"
+    "static/css/main.6f99dcfd.css",
+    "static/js/main.3e2aef89.js"
   ]
 }
